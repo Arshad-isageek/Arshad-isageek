@@ -1,4 +1,4 @@
-<img src="./myBanner.gif" alt="Hi, its Arshad">
+<img align="center" src="./myBanner.gif" alt="Hi, its Arshad">
 <hr>
 <h3 align="center">CS Graduate, Web3 and Full Stack Developer and sometimes on the verge of loosing it.</h3>
 <hr>
